@@ -10,7 +10,7 @@ const ceramics = [
   { id: 1, name: 'The Dandy Chair', price: '$45.00', imgSrc: 'projectPics/Right Image.png' },
   { id: 2, name: 'Rustic Vase Set', price: '$30.00', imgSrc: 'projectPics/Three Vase.png' },
   { id: 3, name: 'The Silky Vase', price: '$20.00', imgSrc: 'projectPics/Silky Vase.png' },
-  { id: 4, name: 'The Lucy Lamp', price: '$25.00', imgSrc: 'projectPics/Lucy Lamp.png' },
+  { id: 4, name: 'The Lucy Lamp', price: '$25.00', imgSrc: 'projectPics/Lucy lamp.png' },
 ];
 
 export default function NewCeramics(){

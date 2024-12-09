@@ -1,7 +1,7 @@
 import React from 'react';
 
 const popularProducts = [
-  { id: 1, name: 'The Poplar suede sofa', price: '$50.00', imgSrc: 'projectPics/Sofa pic.png' },
+  { id: 1, name: 'The Poplar suede sofa', price: '$50.00', imgSrc: 'projectPics/Sofa Pic.png' },
   { id: 2, name: 'The Dandy chair', price: '$35.00', imgSrc: 'projectPics/Right Image.png' },
   { id: 3, name: 'The Dandy chair', price: '$20.00', imgSrc: 'projectPics/Dandy chair.png' },
 ];
